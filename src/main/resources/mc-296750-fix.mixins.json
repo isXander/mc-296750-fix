@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.isxander.mc296750fix",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "client": [
+    "GLDeviceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

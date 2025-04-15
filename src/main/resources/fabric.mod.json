@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "mc-296750-fix",
+  "version": "${version}",
+  "name": "MC-296750 Fix",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "LGPL-3.0",
+  "environment": "client",
+  "mixins": [
+    "mc-296750-fix.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "1.21.6-alpha.25.16.a"
+  }
+}
