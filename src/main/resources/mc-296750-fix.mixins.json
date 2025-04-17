@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "GLDeviceMixin"
+    "Std140BuilderMixin"
   ],
   "injectors": {
     "defaultRequire": 1
